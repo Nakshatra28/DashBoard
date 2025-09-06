@@ -37,7 +37,7 @@ const Radarchart = () => {
           name="Lily"
           dataKey="B"
           stroke="#82ca9d"
-          fill="#82ca9d"
+          fill="#82ca4d"
           fillOpacity={0.6}
         />
         <Legend />

@@ -19,7 +19,7 @@ const Recent = () => {
 const TableHead = () => {
   return (
     <thead>
-      <tr className="text-sm font-normal text-stone-500">
+      <tr className="text-sm font-normal text-stone-600">
         <th className="text-start p-1">Customer ID</th>
         <th className="text-start p-1">SKU</th>
         <th className="text-start p-1">Date</th>
